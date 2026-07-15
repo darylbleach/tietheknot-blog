@@ -1,0 +1,32 @@
+name: Publish Blog Post
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'blog/post-*.md'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Get changed blog files
+        id: changed
+        run: |
+          FILES=$(git diff --name-only HEAD~1 HEAD -- 'blog/post-*.md' | tr '\n' ' ')
+          echo "files=$FILES" >> $GITHUB_OUTPUT
+          echo "Changed files: $FILES"
+
+      - name: Publish each changed post
+        if: steps.changed.outputs.files != ''
+        env:
+          BLOG_CMS_API_KEY: ${{ secrets.BLOG_CMS_API_KEY }}
+        run: |
+          for FILE in ${{ steps.changed.outputs.files }}; do
+            echo "Publishing $FILE..."
+            python3 blog/publish_single_post.py "$FILE"
+          done
