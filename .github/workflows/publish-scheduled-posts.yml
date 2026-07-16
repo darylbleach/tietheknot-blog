@@ -1,0 +1,17 @@
+name: Publish Scheduled Posts
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'  # Every Monday at 09:00 UTC
+  workflow_dispatch:       # Allow manual trigger from GitHub UI
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Publish due draft posts
+        env:
+          BLOG_CMS_API_KEY: ${{ secrets.BLOG_CMS_API_KEY }}
+        run: python3 blog/publish_due_posts.py
