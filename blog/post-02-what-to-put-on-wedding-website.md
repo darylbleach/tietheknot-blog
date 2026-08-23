@@ -1,93 +1,88 @@
-# What to Put on Your Wedding Website: The Complete UK Guide
+# What to Put on Your Wedding Website: A Practical UK Guide
 
 **Slug:** what-to-put-on-your-wedding-website-uk  
-**Meta title:** What to Put on Your Wedding Website — Complete UK Guide  
-**Meta description:** Not sure what to include on your wedding website? Here's everything UK couples need to add — from the essentials to the extras guests actually love.  
-**Target keyword:** what to put on a wedding website UK  
+**Meta title:** What to Put on Your Wedding Website — UK Guide | Tie The Knot  
+**Meta description:** What UK couples should put on a wedding website: date, venues, RSVP, travel, hotels, gifts, and FAQ. Honest notes on free marketplace sites versus a £249 planning suite.  
 **Featured image:** https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?w=1200&q=80&auto=format&fit=crop  
-**Featured image alt:** Elegant wedding stationery and details laid out on a table  
-**Word count:** ~1,050
 
 ---
 
-![Elegant wedding stationery and details laid out on a table](https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?w=1200&q=80&auto=format&fit=crop)
+Your wedding website has one job: answer the questions guests will otherwise text you. Time, place, food, parking, where to stay. If those sit in one place, the WhatsApp thread gets quieter.
 
-Your wedding website does one job: make life easier for everyone. For you, it cuts down on the "what time does it start?" messages. For your guests, it gives them everything they need without having to ask.
+This is a practical list for UK couples. Add the essentials first. Fill the extras as you confirm them. You can do this on a [free marketplace site](/blog/free-wedding-websites-uk) or on a paid planning suite. Both are legitimate. The sections below are the same either way.
 
-But when you sit down to fill it in, it can feel overwhelming. What do you actually need to include? What can you leave out? Here's a practical guide for UK couples.
-
----
-
-## The essentials (everything goes here)
+## The essentials
 
 ### Your names and the date
 
-Sounds obvious, but make it unmissable. Big, clear, at the top. Include the full date, not just "June" — and for UK weddings, use the British date format (15th June 2026, not June 15).
+Put them at the top. Use the full date in British form — 15th June 2026, not June 15. Guests forwarding the link to a plus-one should not have to hunt.
 
-### Ceremony and reception details
+### Ceremony and reception
 
-Include the full name and address of your ceremony venue, what time guests should arrive (and note if there's an "arrive by" vs. start time), whether the ceremony and reception are at the same venue or different locations, and the rough schedule — ceremony, drinks reception, wedding breakfast, evening reception.
+Full venue name and address. Arrival time as well as start time. Say if the ceremony and reception are in different places. A simple run of day helps: ceremony, drinks, wedding breakfast, evening do.
 
-If any part of the day is adults-only or children-welcome, say so clearly here. You'll save yourself a lot of awkward conversations.
+If any part is adults-only, say so here. That conversation is worse in the comments of a group chat.
 
 ### RSVP
 
-This is the most practically useful part of your wedding website. A digital RSVP collects each guest's response, dietary requirements, plus-one details, and any other information you need — all in one place, without a single envelope.
+This is the part guests actually use. Collect yes/no, plus-ones, three-course meal choices, and dietary tags in one place. Set a deadline. Six to eight weeks before is what most UK venues want for final numbers.
 
-Set a clear deadline (6–8 weeks before the wedding is standard for UK venues requiring final numbers) and make the RSVP button impossible to miss.
+Make the RSVP button hard to miss on a phone.
 
-### Travel and directions
+### Travel and taxis
 
-Don't rely on guests just Googling the venue name — search results can be wrong, and some venues have multiple buildings or entrances. Include the full postcode for sat-nav, parking information (is it free? limited? do guests need a permit?), the nearest train station and rough taxi cost, and any public transport options if the venue is accessible that way.
+Do not assume guests will Google the venue and get the right entrance. Postcode for sat-nav. Parking: free, limited, or permit. Nearest station and a rough taxi cost. If you have arranged a coach or taxi share, put it here.
 
-### Accommodation
+### Hotels
 
-If you've negotiated a group rate at a nearby hotel, include the booking details and deadline. Even if you haven't, a short list of nearby B&Bs, hotels, and any self-catering options in the area is genuinely appreciated — especially for guests travelling from out of town.
+If you have a room block, include the booking code and the cut-off date. If you have not, a short list of nearby hotels and B&Bs is still useful for people travelling in.
 
----
+## The extras guests actually use
 
-## The extras (add these if you can)
+### FAQ
 
-![Bride and groom sharing a quiet moment at their UK wedding venue](https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&q=80&auto=format&fit=crop)
+After venue and RSVP, this is the page that saves you the most messages. Dress code. Children. Plus-ones. Last train. Cash bar or not. Anything you have already answered twice belongs here.
 
-### Your love story
+### Gift registry and cash funds
 
-A short "about us" section — how you met, how you got engaged — makes your website feel personal rather than functional. Guests who haven't met both of you will love it. Keep it light and honest; it doesn't need to be a novel.
+Link the list. John Lewis, Prezola, a honeymoon pot — guests would rather click once than ask your mum. A sentence about “presence is the present” is fine. Then give them the link anyway.
 
-### Gift list
+### Multi-day timeline
 
-If you have a gift list (whether it's with a retailer like John Lewis, a dedicated wedding list service like Prezola, or a honeymoon fund), link to it from your website. It's far better than a note on the invitation, and guests can check back when they're ready to buy.
+If there is a welcome drinks, a Sunday lunch, or a Friday gathering, put the times and addresses on the same site. Guests will not remember a separate PDF.
 
-### FAQ section
+### A few photos
 
-After venue and RSVP, an FAQ page is the most valuable thing you can add. Think about every question you've already been asked and answer it here. Common ones include: is there parking at the venue? Are children invited? What's the dress code? Is there a bus back to the hotel? Can I bring a plus-one?
+A handful of pictures of the two of you is enough. You do not need a full gallery on the guest site before the day. After the day, a guest photo gallery that works from a QR code — no app, no login — is what people actually use on the dancefloor.
 
-An FAQ page doesn't just save you messages — it saves you having the same conversation 40 times.
+### Your story, if you want it
 
-### Photos
+A short how-we-met is nice. Keep it short. The logistics matter more.
 
-A few engagement photos or shots of how you met make the website feel warm and personal. You don't need professional photos at this stage — a handful of your favourite pictures is enough.
+## What you can leave off
 
----
+You do not need a public guest list. You do not need the seating plan on the open site. Hen and stag details that are not for everyone can live elsewhere.
 
-## Things you don't need to include
+Treat the site as the guest-facing half. The planning board, budget, and table planner are for you and your partner.
 
-You don't need to list every guest on the website, publish your exact seating plan, or share details about hen/stag dos that aren't relevant to all guests. Keep the content focused on helping people get to your wedding and enjoy it.
+## Privacy, without overclaiming
 
----
+Venue addresses and hotel blocks are personal enough. Share the link with invited guests rather than posting it on an open social page. How each platform locks that down varies. If privacy settings matter to you, check the product you are actually using rather than assuming every builder has a password gate.
 
-## A note on privacy
+## Free marketplace versus a paid suite
 
-If your wedding website has any personal details — venue address, travel plans, accommodation — it's worth password-protecting it so only your invited guests can access it. Most wedding website platforms let you do this easily.
+Bridebook, Hitched, and Joy do not charge couples a monthly fee. We are not going to pretend they do. They stay free because venues pay, or because the product is a simple RSVP page. That is a fair £0 choice. See [Is Bridebook free?](/blog/is-bridebook-free), [Bridebook alternative](/blog/bridebook-alternative), and [Hitched alternative](/blog/hitched-alternative) if you are still comparing.
 
----
+[How much a wedding website costs in the UK](/blog/how-much-does-a-wedding-website-cost-uk) and [why a one-time fee exists](/blog/wedding-website-one-time-fee) are the money versions of this same honest split.
 
-## Putting it all together
+## Where Tie The Knot fits
 
-The best wedding websites are clear, complete, and easy to navigate on a phone (because that's what most guests will use). Add the essentials first, then fill in the extras as you confirm details.
+Tie The Knot is the other model. £249, paid once. Lifetime access. 30-day money-back. Five templates: Modern Fresh, Romantic Classic, Boho Chic, Classic, and Luxury.
 
-If you're looking for a UK wedding website that includes all of this — RSVP management, gift list integration, travel and accommodation sections — [Tie The Knot](https://tietheknot.uk) has everything built in. One payment of £249, lifetime access, no monthly fees.
+You get the guest website plus a shared planning board, a linked budget, and a drag-and-drop table planner. RSVPs collect three-course meal choices, dietary tags, and plus-ones in the couple dashboard. Gift registry and cash funds. Guest photo gallery (QR, no app, no login). Multi-day timelines. Hotel and taxi info.
 
----
+No supplier ads on the site or the planner. We do not replace Bridebook or Hitched for finding a barn. Find the venue there. Put the guests, the meals, and the room here. Support: hello@tietheknot.uk.
 
-*[Create your wedding website with Tie The Knot](https://tietheknot.uk) — beautifully designed for UK couples, ready in an afternoon.*
+If £0 is the software budget, stay on a free marketplace site. If you want those sections in one planning suite, start on [tietheknot.uk](https://tietheknot.uk) — £249 once, lifetime access, 30-day money-back.
+
+Photo: Drew Coffman/ Unsplash.
