@@ -1,81 +1,64 @@
-# Do You Need a Wedding Website? (Honest Answer for UK Couples)
+# Do You Need a Wedding Website? Honest Answer for UK Couples
 
-**Slug:** do-i-need-a-wedding-website-uk  
-**Meta title:** Do You Need a Wedding Website? Honest Answer for UK Couples  
-**Meta description:** Wondering if a wedding website is actually worth it? Here's an honest look at whether you need one, what you get out of it, and when it makes sense to skip it.  
-**Target keyword:** do I need a wedding website UK  
-**Featured image:** https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=1200&q=80&auto=format&fit=crop  
-**Featured image alt:** Happy UK couple celebrating their engagement  
-**Word count:** ~900
+**Slug:** do-i-need-a-wedding-website-uk
+**Meta title:** Do You Need a Wedding Website? Honest Answer for UK Couples | Tie The Knot
+**Meta description:** You do not need a wedding website. For most UK couples with more than a handful of guests, one link still beats a WhatsApp thread. Honest on £0 marketplace sites versus £249 lifetime access.
+**Featured image:** https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=1200&q=80&auto=format&fit=crop
 
 ---
 
-![Happy UK couple celebrating their engagement](https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=1200&q=80&auto=format&fit=crop)
+Short answer: no. Couples got married for centuries without a URL.
 
-Short answer: no, you don't *need* one. Couples have been getting married without websites for centuries.
-
-But if you have more than about 30 guests, a wedding website will almost certainly make your life easier — and your guests' lives easier — in ways that are hard to overstate until you're in the thick of planning.
-
-Here's the honest version.
-
----
+If you have more than about 30 guests, one link still tends to beat a WhatsApp thread. That is the honest version. Not a legal requirement. Not a moral one. A logistics one.
 
 ## What a wedding website actually does
 
-At its core, a wedding website is a single link you can send to every guest that answers every question they have.
+It is a single page you send to every guest. Where. What time. Where to park. Which hotel. Dress code. Whether the kids are invited. How to RSVP, including meal choices and dietary tags.
 
-Where is it? What time? Where should I park? Is there a hotel nearby? What's the dress code? Do I need to RSVP by post or can I do it online? Is my plus-one included? Are kids coming?
+Each of those answers is one fewer message while you are also booking a band.
 
-Every one of those questions is one fewer WhatsApp message, one fewer phone call, one fewer email you have to reply to while also trying to plan a wedding.
+The useful ones also collect RSVPs in a couple dashboard, so you are not chasing paper reply cards and a spreadsheet that only one of you understands.
 
-The best wedding websites also collect RSVPs digitally, so instead of waiting for paper reply cards to come back (and chasing the 15 people who never send them), you get a live dashboard showing who's coming, who's not, and what everyone's eating.
+The guest site is the public half. The planning board, budget, and table planner are for you and your partner. You do not have to put the seating plan on the open page.
 
----
+## When it is worth it
 
-## When a wedding website is definitely worth it
+A lot of guests. At 80-plus, digital RSVPs alone save a weekend of admin.
 
-**You have a lot of guests.** The more guests you have, the more questions you'll receive and the more RSVPs you need to track. At 80+ guests, a digital RSVP alone saves hours of admin.
+People travelling. Full postcode, parking, station, taxi cost, and a hotel list in one place is what out-of-town guests actually use. See [what to put on your wedding website](/blog/what-to-put-on-your-wedding-website-uk) for the full list.
 
-**Guests are travelling from far away.** If people are coming from different parts of the UK — or from abroad — having accommodation options, travel directions, and nearby transport information in one place is genuinely valuable.
+A messy day. Two venues, a gap after the ceremony, evening-only guests. Write it down once.
 
-**You have a complex day.** Multiple venues, a gap between ceremony and reception, or an evening-only guest list all create opportunities for confusion. A website clears it up before it becomes a problem.
+Things that change. You edit the page. You do not send a third group message.
 
-**You want to keep people updated.** If anything changes — venue details, timings, parking arrangements — you update the website once rather than messaging everyone individually.
+## When you can skip it
 
----
+Twenty people who already have your number. A group chat can cover it.
 
-## When you might not need one
+A local, simple day. Everyone knows the church. The RSVP tool is still the bit people keep even then.
 
-**Very small wedding.** If you're having 20 people who all know each other well, a simple message or group chat might cover everything. Even then, a website takes a couple of hours to set up and saves admin time you'd otherwise spend on logistics.
+If £0 is the software budget, skip a paid suite. Use a free marketplace site, or skip a site entirely. Both are legitimate.
 
-**Very simple, local day.** If everyone lives nearby, the venue is easy to find, and logistics are straightforward, the case for a website is weaker — though the RSVP tool alone is often worth it.
+## Facebook events and WhatsApp groups
 
----
+Not everyone is on Facebook. WhatsApp groups turn into noise. Neither gives you meal choices and dietary tags in one dashboard. Neither is what you want as the first look at the day. They work as a backup. They are a poor guest list.
 
-## What about just using a Facebook event or WhatsApp group?
+## Do you have to pay?
 
-![Wedding guests arriving at a UK country house venue](https://images.unsplash.com/photo-1520854221256-17451cc331bf?w=1200&q=80&auto=format&fit=crop)
+No. [Bridebook](/blog/is-bridebook-free), [Hitched](/blog/hitched-alternative), and Joy do not charge couples a monthly fee. We are not going to pretend they do. They stay free because venues pay, or because the product is a pretty RSVP page. That is a fair £0 choice. Details in [free wedding websites UK](/blog/free-wedding-websites-uk) and [how much a wedding website costs](/blog/how-much-does-a-wedding-website-cost-uk).
 
-A lot of couples try this. The problems: not everyone uses Facebook. WhatsApp groups turn into noise very quickly. Neither collects RSVPs in any organised way. And neither looks the way you probably want the first communication about your wedding to look.
+The useful contrast is not a fake subscription. It is marketplace versus a planning suite with no supplier ads on it. [Why a one-time fee exists](/blog/wedding-website-one-time-fee) is the money version of that split.
 
-A wedding website is a step up — something that feels as considered as the wedding itself, rather than an afterthought.
+## Where Tie The Knot fits
 
----
+Tie The Knot is the other model. £249, paid once. Lifetime access. 30-day money-back. Five templates: Modern Fresh, Romantic Classic, Boho Chic, Classic, and Luxury.
 
-## Is the cost worth it?
+You get the guest website plus a shared planning board, a linked budget, and a drag-and-drop table planner. RSVPs collect three-course meal choices, dietary tags, and plus-ones in the couple dashboard. Gift registry and cash funds. Guest photo gallery (QR, no app, no login). Multi-day timelines. Hotel and taxi info.
 
-Free wedding websites exist (Bridebook and Hitched are the main UK options). They work. The trade-offs are limited design options, ads on your page, and less flexibility.
+No supplier ads on the site or the planner. We do not replace Bridebook or Hitched for finding a barn. Find the venue there. Put the guests, the meals, and the room here. Support: hello@tietheknot.uk.
 
-If you want a website that looks genuinely beautiful and includes everything — full RSVP management, gift list, travel info, photo gallery — a paid option like [Tie The Knot](https://tietheknot.uk) costs £249 once, with no monthly fees and lifetime access. For most couples, that's a fraction of what they'll spend on flowers.
+If you only need a pretty RSVP page, look at Joy before you look at us. If a free Hitched or Bridebook site already does what your guests need, keep it.
 
----
+If you want those sections in one planning suite, start on [tietheknot.uk](https://tietheknot.uk) — £249 once, lifetime access, 30-day money-back.
 
-## The honest verdict
-
-A wedding website isn't compulsory. But for most UK couples planning a wedding with more than a handful of guests, it pays for itself in time saved and stress avoided — before you even get to the day itself.
-
-The question isn't really "do I need one?" It's "why wouldn't I have one?"
-
----
-
-*[Create your wedding website with Tie The Knot](https://tietheknot.uk) — £249 once, 30-day money-back guarantee, ready in an afternoon.*
+Photo: Álvaro CvG/ Unsplash.
